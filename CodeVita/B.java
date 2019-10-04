@@ -7,6 +7,7 @@ public class B {
        String a=s.nextLine();
       
        String ans="";
+       //Intializing ArrayList;
        ArrayList<Integer> slab=new ArrayList<>();
        for(int i=0;i<a.length();i++)
        {
